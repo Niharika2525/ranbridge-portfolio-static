@@ -1,4 +1,5 @@
 # ranbridge-portfolio-static
+
 Potfolio
 
 * A responsive website built to showcase content in a clean UI with fast navigation and a modern layout.
@@ -12,6 +13,6 @@ Features
    
 Tech stack
 
-* Frontend: HTML, CSS, JavaScript. 
+* Frontend: HTML, CSS, JavaScript.
 * Tools: GitHub.
  
