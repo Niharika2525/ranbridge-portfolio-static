@@ -2,7 +2,7 @@
 Potfolio
 
 * A responsive website built to showcase content in a clean UI with fast navigation and a modern layout.
-* Demo video: video_20251222_190904.mp4
+* Demo video: 
 
 Features
 
